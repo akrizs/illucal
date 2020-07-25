@@ -1,5 +1,7 @@
 # 🗓️ IlluCal
-Plotting up calendar view in Illustrator is a horrible and time consuming task, this zero dependency(Only uses Fs to store the .csv) Node.js script generates a dataset for a given year to create a super simple calendar view for that year, example outputs included in the `ExampleOutput` folder. 
+Plotting up calendar view in Illustrator is a horrible and time consuming task, this zero dependency(Only uses Fs to store the .csv) Node.js script generates a dataset for a given year to create a super simple calendar view for that year, example outputs included in the `ExampleOutput` folder.
+
+If I'm ever in the mood i might make this into a web function/app.
 
 
 ### ❓How to:
